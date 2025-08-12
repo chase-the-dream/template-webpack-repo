@@ -1,1 +1,1 @@
-# weather-app
+# webpack-template
